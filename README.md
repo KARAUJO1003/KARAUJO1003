@@ -20,7 +20,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KARAUJO1003o&show_icons=true&theme=radical)  
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KARAUJO1003&show_icons=true&theme=radical)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KARAUJO1003&layout=compact&theme=radical)
 
 ---
