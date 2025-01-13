@@ -15,7 +15,7 @@
 - **Frontend:** React, Next.js, Tailwind CSS, JavaScript, TypeScript  
 - **Backend:** Node.js, Express, NestJS, Fastify
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-- **Outras Ferramentas:** Zod, React Hook Form, Prisma, Figma, Frammer-Motion, Gsap, Shadcn-UI, Mui-Material, Axios, JS-PDF, Nuqs, React-DND (drag-an-drop), React-zoom-pan-pinch (Board), Xslx (Excel), Eslint, Prettier
+- **Outras Ferramentas:** Zod, React Hook Form, Prisma, Figma, Framer-Motion, Gsap, Shadcn-UI, Mui-Material, Axios, JS-PDF, Nuqs, React-DND (drag-an-drop), React-zoom-pan-pinch (Board), Xslx (Excel), Eslint, Prettier
 
 ---
 
